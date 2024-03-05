@@ -1,0 +1,47 @@
+div{
+    text-align: center;
+}
+h2{
+    color: green;
+}
+.task-1 div {
+    display: inline;
+    background-color: darkgray;
+    outline: black 5px solid;
+    width: 100px;
+    margin: 50px;
+        margin-top: 40px;
+        text-align: center;
+    padding: 50px 50px;
+        
+}
+.shape-1{
+    border: solid red 5px;
+}
+.shape-2{
+    border: 5px solid;
+    border-color: blue green;
+}
+.shape-3{
+    border-top: dashed 5px red ;
+    border-bottom: dashed 5px blue ;
+    border-left: dashed 5px yellow;
+    border-right: dashed 5px green;
+}
+.task-2 div {
+    width: 400px;
+    text-align: left;
+    margin: 90px;
+    background-color: darkgray;
+    margin: 30px;
+    padding: 20px;
+}
+.element-1{
+    border-left:solid 6px red ;
+}
+.element-2{
+    visibility: hidden;
+}
+.element-3{
+    border-left: solid 6px cyan ;
+}
