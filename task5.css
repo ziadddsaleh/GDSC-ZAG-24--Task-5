@@ -31,15 +31,19 @@ h2{
 .task-2 div {
     width: 400px;
     text-align: left;
-    margin: 90px;
+    margin: auto;
+    margin-inline: auto;
+    line-height: 30px;
     background-color: darkgray;
-    margin: 30px;
-    padding: 20px;
+    padding: 30px;
+    outline: 6px white solid;
+    
 }
 .element-1{
     border-left:solid 6px red ;
 }
 .element-2{
+    border-left: solid green 6px;
     visibility: hidden;
 }
 .element-3{
